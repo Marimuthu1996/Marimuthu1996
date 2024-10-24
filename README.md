@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Marimuthu
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
-
+- 🌱 I’m currently learning Backend Development
+- 📫 How to reach me -> you can contact me via :-
+- Email: marimuthu1742@gmail.com 
+- phone no: 8870140867
